@@ -1,0 +1,11 @@
+1- Tabuleiro vazio - ok
+2- Inserir navio no tabuleiro-ok
+3- Inserir vários navios-ok
+4- Iniciar o jogo -ok
+5- Atirar em uma posição XY -ok
+6- Validar se acertou -ok
+7- Validar se terminou o jogo - ok
+
+tirar {} dos fors -ok
+renomear as variaveis -ok
+refatorar codigo duplicado nos testes -ok
